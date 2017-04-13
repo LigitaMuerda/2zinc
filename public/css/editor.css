@@ -1,0 +1,24 @@
+.editorNavigation{
+	position: relative;
+	margin-bottom: 4px;
+}
+.editorButton{
+	cursor: pointer;
+	font-size: 12px;
+	border-radius: 2px;
+	padding: 2px 4px;
+	background-color: #D5E5EA;
+	border:1px solid #76888E;
+	display: inline-block;
+	margin-right: 4px;
+}
+	.editorButton:hover{
+		background-color: #C3DBE2;
+	}
+
+.editorButton[data-type="b"]{
+	font-weight: bold;
+}
+.editorButton[data-type="i"]{
+	font-style: italic;
+}

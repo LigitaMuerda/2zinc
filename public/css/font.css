@@ -1,0 +1,85 @@
+@font-face {
+	font-family: 'venera100';
+	src: url("../font/venera/venera-100.otf");
+	font-weight: normal;
+	font-style: normal
+} 
+@font-face {
+	font-family: 'venera300';
+	src: url("../font/venera/venera-300.otf");
+	font-weight: normal;
+	font-style: normal
+} 
+@font-face {
+	font-family: 'venera500';
+	src: url("../font/venera/venera-500.otf");
+	font-weight: normal;
+	font-style: normal
+}
+@font-face {
+	font-family: 'venera700';
+	src: url("../font/venera/venera-700.otf");
+	font-weight: normal;
+	font-style: normal
+}
+@font-face {
+	font-family: 'venera900';
+	src: url("../font/venera/venera-900.otf");
+	font-weight: normal;
+	font-style: normal
+}
+
+@font-face {
+	font-family: 'SFUIDisplay-Ultralight';
+	src: url("../font/SFUIDisplay/SFUIDisplay-Ultralight.otf");
+	font-weight: normal;
+	font-style: normal
+} 
+@font-face {
+	font-family: 'SFUIDisplay-Thin';
+	src: url("../font/SFUIDisplay/SFUIDisplay-Thin.otf");
+	font-weight: normal;
+	font-style: normal
+} 
+@font-face {
+	font-family: 'SFUIDisplay-Light';
+	src: url("../font/SFUIDisplay/SFUIDisplay-Light.ttf");
+	font-weight: normal;
+	font-style: normal
+}
+@font-face {
+	font-family: 'SFUIDisplay-Regular';
+	src: url("../font/SFUIDisplay/SFUIDisplay-Regular.otf");
+	font-weight: normal;
+	font-style: normal
+}
+@font-face {
+	font-family: 'SFUIDisplay-Medium';
+	src: url("../font/SFUIDisplay/SFUIDisplay-Medium.otf");
+	font-weight: normal;
+	font-style: normal
+} 
+@font-face {
+	font-family: 'SFUIDisplay-Semibold';
+	src: url("../font/SFUIDisplay/SFUIDisplay-Semibold.otf");
+	font-weight: normal;
+	font-style: normal
+} 
+@font-face {
+	font-family: 'SFUIDisplay-Bold';
+	src: url("../font/SFUIDisplay/SFUIDisplay-Bold.ttf");
+	font-weight: normal;
+	font-style: normal
+} 
+@font-face {
+	font-family: 'SFUIDisplay-Heavy';
+	src: url("../font/SFUIDisplay/SFUIDisplay-Heavy.otf");
+	font-weight: normal;
+	font-style: normal
+} 
+@font-face {
+	font-family: 'SFUIDisplay-Black';
+	src: url("../font/SFUIDisplay/SFUIDisplay-Black.otf");
+	font-weight: normal;
+	font-style: normal
+}  

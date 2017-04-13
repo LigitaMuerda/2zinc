@@ -1,0 +1,74 @@
+@page{
+	background-image: url("/images/certificate/background.jpg");
+    background-position: center;
+}
+#header{
+	position: absolute;
+	top: 190px;
+	left: 300px;
+}
+#headerh2{
+	color: #243441;
+	font-weight: normal;
+	font-size: 26px;
+}
+#headerh1{
+	color: #e61a1a;
+	font-weight: normal;
+	font-size: 32px;
+}
+
+.wrapper{
+	width: 450px;
+	padding-left: 120px;
+    font-size: 10px;
+    color: #21323f;
+}
+#header2{
+	padding-top: 270px;
+}
+	#header2 img{
+		float: left;
+	}
+	#header2 p{
+		float: right;
+		width: 380px;
+		margin-top: -60px;
+		margin-right: -30px;
+		font-size: 12px;
+	}
+
+table{
+	width: 100%;
+    font-size: 10px;
+    color: #21323f;
+}
+	table td{
+		padding-right: 10px;
+	}
+
+.farial{
+	font-family: Arial;
+}
+.red{
+	color: #ff0000;
+}
+
+#directors #signs{
+	float: left;
+	padding-left: 170px;
+}
+#directors p{
+	float: right;
+	margin-top: -100px;
+}
+#directors b{
+	border-bottom: 1px solid #000000;
+}
+
+#risk{
+	font-size: 8px;
+}
+#trust{
+	font-size: 8px;
+}
